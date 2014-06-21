@@ -5,7 +5,7 @@ import subprocess
 import re
 
 '''
-Edit the repo dictionary below, add, delete, or modify them according to your environment.
+Edit the repos dictionary below, add, delete, or modify them according to your environment.
 '''
 
 repos = {}
